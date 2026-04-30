@@ -6,3 +6,16 @@ peacock.jpg
 imagenet_classes.txt
 Transfer_Learning_img_classfxn/models/
 Transfer_Learning_img_classfxn/Rotten-apples-detection-5/
+dataset/
+*.jpg
+*.png
+*.jpeg
+*.csv
+*.h5
+
+# folders
+data/
+datasets/
+models/
+__pycache__/
+.ipynb_checkpoints/
