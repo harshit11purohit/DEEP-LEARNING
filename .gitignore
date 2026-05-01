@@ -12,10 +12,11 @@ dataset/
 *.jpeg
 *.csv
 *.h5
-
+readme.md
 # folders
 data/
 datasets/
 models/
 __pycache__/
 .ipynb_checkpoints/
+readme.md 
